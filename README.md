@@ -1,1 +1,1 @@
-# checksum_calculation
+check calculation of a series of bytes
