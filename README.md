@@ -1,1 +1,1 @@
-check calculation of a series of bytes. https://www.in-chip.it/checksum.html
+check calculation of a series of bytes in c++. https://www.in-chip.it/checksum.html
